@@ -20,6 +20,7 @@ target/
 *.ipr
 #*.gitignore
 /src/main/resources/*
+/src/test/*
 
 ### NetBeans ###
 /nbproject/private/
